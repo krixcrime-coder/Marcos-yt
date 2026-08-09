@@ -1,0 +1,61 @@
+name: YouTube auto uploader
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions cron uses UTC. This runs once each day and fills the next
+    # configured publish slots without relying on the runner's local timezone.
+    - cron: "15 00 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-auto-uploader
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
+      DRIVE_API_KEY: ${{ secrets.DRIVE_API_KEY }}
+      YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+      YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+      YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+      PUBLISH_TIMES: ${{ vars.PUBLISH_TIMES || '08:00,20:00' }}
+      PUBLISH_TIMEZONE: ${{ vars.PUBLISH_TIMEZONE || 'UTC' }}
+      DAILY_UPLOAD_LIMIT: ${{ vars.DAILY_UPLOAD_LIMIT || '10' }}
+      MAX_UPLOADS_PER_RUN: ${{ vars.MAX_UPLOADS_PER_RUN || '' }}
+      DRIVE_SORT_FIELD: ${{ vars.DRIVE_SORT_FIELD || 'name' }}
+      SCHEDULE_LOOKAHEAD_DAYS: ${{ vars.SCHEDULE_LOOKAHEAD_DAYS || '90' }}
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - name: Check out state
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+
+      - name: Run uploader
+        run: python -m uploader
+
+      - name: Commit state and reports
+        run: |
+          git config user.name "youtube-auto-uploader[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json data/reports.json
+          if git diff --cached --quiet; then
+            echo "No state or report changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update YouTube upload state"
+          git push
