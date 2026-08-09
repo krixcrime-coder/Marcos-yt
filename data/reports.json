@@ -34,5 +34,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-09T09:32:34.309701Z",
+    "status": "success",
+    "drive_file_id": "1kF6FptaYbT1_MsYPXvU7hQziRs0Kz3oT",
+    "filename": "0E43545995E75725FAA21A6CDB803C8E_video_dashinit.mp4",
+    "youtube_video_id": "MkMBb4e1Anc",
+    "scheduled_publish_at": "2026-08-10T08:00:00Z",
+    "slot_key": "2026-08-10T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-09T09:32:37.242066Z",
+    "status": "success",
+    "drive_file_id": "1CQDpfn4BbzdD4TWMraeglHeDNdmFeqxR",
+    "filename": "1043D897883E90ED90F95192555E8B87_video_dashinit.mp4",
+    "youtube_video_id": "OaKnfZxhlqs",
+    "scheduled_publish_at": "2026-08-10T20:00:00Z",
+    "slot_key": "2026-08-10T20:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
