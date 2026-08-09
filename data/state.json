@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "next_index": 0,
-  "uploaded_file_ids": [],
-  "scheduled_slots": {},
-  "last_run_at": null
+  "next_index": 2,
+  "uploaded_file_ids": [
+    "1p6I1dbSUerSdSPueMYN3Lp3rHp7vZnF4",
+    "16cXL2ruWeWhQ8iG7sODLiVWjaIr6NXVf"
+  ],
+  "scheduled_slots": {
+    "2026-08-09T08:00+00:00": "1p6I1dbSUerSdSPueMYN3Lp3rHp7vZnF4",
+    "2026-08-09T20:00+00:00": "16cXL2ruWeWhQ8iG7sODLiVWjaIr6NXVf"
+  },
+  "last_run_at": "2026-08-09T07:19:31.571029Z"
 }

@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "uploaded_at": "2026-08-09T07:19:28.933613Z",
+    "status": "success",
+    "drive_file_id": "1p6I1dbSUerSdSPueMYN3Lp3rHp7vZnF4",
+    "filename": "0A471E5ECC0A6768637C9F37B5939CAB_video_dashinit.mp4",
+    "youtube_video_id": "EqyESsPLveU",
+    "scheduled_publish_at": "2026-08-09T08:00:00Z",
+    "slot_key": "2026-08-09T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-09T07:19:31.503759Z",
+    "status": "success",
+    "drive_file_id": "16cXL2ruWeWhQ8iG7sODLiVWjaIr6NXVf",
+    "filename": "0C4D9E83F95CEF613435172957F98C8A_video_dashinit.mp4",
+    "youtube_video_id": "nJWNEVTxIh0",
+    "scheduled_publish_at": "2026-08-09T20:00:00Z",
+    "slot_key": "2026-08-09T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  }
+]
