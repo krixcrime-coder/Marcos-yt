@@ -106,5 +106,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-11T02:28:06.486417Z",
+    "status": "success",
+    "drive_file_id": "1jeMBY59zecJsE9Q2HpJTdY1pZYL1vVnG",
+    "filename": "120027185_3417247658518752_2783591478569721575_n.mp4",
+    "youtube_video_id": "GlklB7Uw9WQ",
+    "scheduled_publish_at": "2026-08-12T08:00:00Z",
+    "slot_key": "2026-08-12T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-11T02:28:08.658949Z",
+    "status": "success",
+    "drive_file_id": "1U8721td2EQ_M1x6bbSh0QXAZVxZD0-kv",
+    "filename": "120084642_756189222659195_8300624715732070941_n.mp4",
+    "youtube_video_id": "b6avz35hFD8",
+    "scheduled_publish_at": "2026-08-12T20:00:00Z",
+    "slot_key": "2026-08-12T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
