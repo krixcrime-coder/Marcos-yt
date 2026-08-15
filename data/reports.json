@@ -142,5 +142,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-15T01:50:12.046114Z",
+    "status": "success",
+    "drive_file_id": "1HajIzrEtl0Rzv7ld3rfRQsNxrtMAcnVv",
+    "filename": "120470389_287921430390581_8205902942487044284_n.mp4",
+    "youtube_video_id": "xdrz5eTM-s0",
+    "scheduled_publish_at": "2026-08-15T08:00:00Z",
+    "slot_key": "2026-08-15T08:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-15T01:50:15.226496Z",
+    "status": "success",
+    "drive_file_id": "1S7BgtI0KWIYFIN3Kx4Q5ZSMwze0ucVQK",
+    "filename": "120595627_1302335760355756_2094784074103237596_n.mp4",
+    "youtube_video_id": "BODQP-11t-o",
+    "scheduled_publish_at": "2026-08-15T20:00:00Z",
+    "slot_key": "2026-08-15T20:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
