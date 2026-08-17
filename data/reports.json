@@ -214,5 +214,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-17T01:55:32.722838Z",
+    "status": "success",
+    "drive_file_id": "1o4GEabnUyvV80-rtT45hHe9Jt_Zn7MxT",
+    "filename": "121400212_112966635176305_3124538644654139313_n.mp4",
+    "youtube_video_id": "iJPpj1aB6ZQ",
+    "scheduled_publish_at": "2026-08-17T08:00:00Z",
+    "slot_key": "2026-08-17T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-17T01:55:35.791101Z",
+    "status": "success",
+    "drive_file_id": "1y_F9-fcFCbKRcVbJ42oF281E_W5a84yX",
+    "filename": "121448982_151743117685345_1556176998779192454_n.mp4",
+    "youtube_video_id": "9ynjIbzWFpU",
+    "scheduled_publish_at": "2026-08-17T20:00:00Z",
+    "slot_key": "2026-08-17T20:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
