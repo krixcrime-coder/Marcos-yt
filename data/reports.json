@@ -286,5 +286,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-19T01:53:13.531959Z",
+    "status": "success",
+    "drive_file_id": "1qrn-a-fg6hyuGQ_QqyuNQOuQUU9n9Owb",
+    "filename": "1543C4B9AC9763EE8AC1ADEA47274D91_video_dashinit.mp4",
+    "youtube_video_id": "jZwbYpAhZMM",
+    "scheduled_publish_at": "2026-08-19T08:00:00Z",
+    "slot_key": "2026-08-19T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-19T01:53:16.626299Z",
+    "status": "success",
+    "drive_file_id": "1kAQs0rNso7QkYr-KoxkbBiNS0OPmZT1I",
+    "filename": "166901356_948269946493847_5760462044441989460_n.mp4",
+    "youtube_video_id": "NX5xOypwU_E",
+    "scheduled_publish_at": "2026-08-19T20:00:00Z",
+    "slot_key": "2026-08-19T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
