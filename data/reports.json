@@ -394,5 +394,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-22T01:50:32.915908Z",
+    "status": "success",
+    "drive_file_id": "1pYVmNYvGJa-bvC-Sgaufc8D4DtCPAxuX",
+    "filename": "240797872_4808068829314664_7935486281921930011_n.mp4",
+    "youtube_video_id": "fo8FT8ape48",
+    "scheduled_publish_at": "2026-08-22T08:00:00Z",
+    "slot_key": "2026-08-22T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-22T01:50:35.674607Z",
+    "status": "success",
+    "drive_file_id": "1J1GrvEEpaxMPhoeR4bkZQeP53NxZKETw",
+    "filename": "241022458_218326876913937_1993478724841464761_n.mp4",
+    "youtube_video_id": "7jiEFRH7i_Q",
+    "scheduled_publish_at": "2026-08-22T20:00:00Z",
+    "slot_key": "2026-08-22T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
