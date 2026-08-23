@@ -430,5 +430,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-23T01:59:57.945179Z",
+    "status": "success",
+    "drive_file_id": "1pWMuvE_IeeUaHEualgzWc8E3cCjg-Owf",
+    "filename": "241104874_584136216105536_1377728118245577449_n.mp4",
+    "youtube_video_id": "nVSjJtQA8kE",
+    "scheduled_publish_at": "2026-08-23T08:00:00Z",
+    "slot_key": "2026-08-23T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-23T01:59:59.941265Z",
+    "status": "success",
+    "drive_file_id": "1dvfk_d44Gwr3QI31FReMsK_c2C0gQ9ku",
+    "filename": "261898037_134357032290228_721410502348785698_n.mp4",
+    "youtube_video_id": "i_aL3_I5eY4",
+    "scheduled_publish_at": "2026-08-23T20:00:00Z",
+    "slot_key": "2026-08-23T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
