@@ -502,5 +502,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-25T01:52:54.051281Z",
+    "status": "success",
+    "drive_file_id": "1UB8x1VrERSNZ2VaylfOm9v1mJcJua5J5",
+    "filename": "2B411D9D02A028BC0B283771A2B29E8E_video_dashinit.mp4",
+    "youtube_video_id": "msgZr_pxGZI",
+    "scheduled_publish_at": "2026-08-25T08:00:00Z",
+    "slot_key": "2026-08-25T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-25T01:52:57.056455Z",
+    "status": "success",
+    "drive_file_id": "1ZycpXnsJn6109Vlbz07vnTjGanQXnD07",
+    "filename": "3002601747465182125_28116722.mp4",
+    "youtube_video_id": "z4ph2YIasIY",
+    "scheduled_publish_at": "2026-08-25T20:00:00Z",
+    "slot_key": "2026-08-25T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
