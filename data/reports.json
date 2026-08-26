@@ -538,5 +538,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-26T01:58:47.239312Z",
+    "status": "success",
+    "drive_file_id": "1EgTKuIyF81fU8fzhr0zuw2fJx_das8t7",
+    "filename": "3003884467927605753_28116722.mp4",
+    "youtube_video_id": "PQfwTZDbwUU",
+    "scheduled_publish_at": "2026-08-26T08:00:00Z",
+    "slot_key": "2026-08-26T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-26T01:58:49.739490Z",
+    "status": "success",
+    "drive_file_id": "11INXy53dIJ5wHnHWiJee0yf77HkC3rLT",
+    "filename": "3005541704504822356_28116722.mp4",
+    "youtube_video_id": "rCClcpNvJdM",
+    "scheduled_publish_at": "2026-08-26T20:00:00Z",
+    "slot_key": "2026-08-26T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
