@@ -610,5 +610,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-28T11:23:40.720979Z",
+    "status": "success",
+    "drive_file_id": "13moN1YveqPnODDghDQ_ziomNpOxEfM1F",
+    "filename": "3008988200432818597_28116722.mp4",
+    "youtube_video_id": "cWwWB5vmc_s",
+    "scheduled_publish_at": "2026-08-28T20:00:00Z",
+    "slot_key": "2026-08-28T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-28T11:23:43.246703Z",
+    "status": "success",
+    "drive_file_id": "1pRSagPgFF5Cv2mp_3gBw6biEDu33WIII",
+    "filename": "3014096608739499645_28116722.mp4",
+    "youtube_video_id": "Q1JZypaVdzk",
+    "scheduled_publish_at": "2026-08-29T08:00:00Z",
+    "slot_key": "2026-08-29T08:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
