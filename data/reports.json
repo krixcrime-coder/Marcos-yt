@@ -646,5 +646,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-29T07:04:46.179926Z",
+    "status": "success",
+    "drive_file_id": "1pPeSNm9lOzI-8rPoy6bCENaAdwPfAhvv",
+    "filename": "3015487173557982357_28116722.mp4",
+    "youtube_video_id": "9zdcB8SA2DU",
+    "scheduled_publish_at": "2026-08-29T20:00:00Z",
+    "slot_key": "2026-08-29T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-29T07:04:48.062200Z",
+    "status": "success",
+    "drive_file_id": "1zDltbFfgWssS9m_7x_gYkM6xeWK3dyVx",
+    "filename": "3016227706098110502_28116722.mp4",
+    "youtube_video_id": "Nj-Wc9lsccQ",
+    "scheduled_publish_at": "2026-08-30T08:00:00Z",
+    "slot_key": "2026-08-30T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
