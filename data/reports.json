@@ -718,5 +718,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-08-31T05:35:00.784710Z",
+    "status": "success",
+    "drive_file_id": "1CTt3SVfSMiMxPALZVqGB8w5noUoUrjww",
+    "filename": "3021549143918254109_28116722.mp4",
+    "youtube_video_id": "KubZmeGeBAc",
+    "scheduled_publish_at": "2026-08-31T20:00:00Z",
+    "slot_key": "2026-08-31T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-08-31T05:35:02.870118Z",
+    "status": "success",
+    "drive_file_id": "1o0kUdSsGG-HRcxWaPt6alntJykxcGdLz",
+    "filename": "3022193960503920007_28116722.mp4",
+    "youtube_video_id": "gk_P75AaXqQ",
+    "scheduled_publish_at": "2026-09-01T08:00:00Z",
+    "slot_key": "2026-09-01T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
