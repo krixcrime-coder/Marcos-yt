@@ -790,5 +790,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-02T04:34:21.665935Z",
+    "status": "success",
+    "drive_file_id": "1gzLCwooE-9UW9cMZ-zvVV1M_udGPocVZ",
+    "filename": "3024392192839647023_28116722.mp4",
+    "youtube_video_id": "_t8sxUgmvRM",
+    "scheduled_publish_at": "2026-09-02T20:00:00Z",
+    "slot_key": "2026-09-02T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-02T04:34:23.876910Z",
+    "status": "success",
+    "drive_file_id": "1OircZ10_xmioiYl5rhi30MHgyJ9VA52v",
+    "filename": "3025732561216850772_28116722.mp4",
+    "youtube_video_id": "FUI48gSEfKM",
+    "scheduled_publish_at": "2026-09-03T08:00:00Z",
+    "slot_key": "2026-09-03T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
