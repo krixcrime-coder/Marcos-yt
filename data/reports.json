@@ -826,5 +826,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-03T04:33:36.334088Z",
+    "status": "success",
+    "drive_file_id": "1p1QGyBYr5AZ-SRsMtI3g2AJS9VXzkDwm",
+    "filename": "3027238068829667300_28116722.mp4",
+    "youtube_video_id": "NNpLyZUBX14",
+    "scheduled_publish_at": "2026-09-03T20:00:00Z",
+    "slot_key": "2026-09-03T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-03T04:33:38.783619Z",
+    "status": "success",
+    "drive_file_id": "1_XdPRTLS2oJ8NEoLgVogmets_Bbk7s0E",
+    "filename": "3029330091565098196_28116722.mp4",
+    "youtube_video_id": "hcMJkzgqpvQ",
+    "scheduled_publish_at": "2026-09-04T08:00:00Z",
+    "slot_key": "2026-09-04T08:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
