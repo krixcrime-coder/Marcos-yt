@@ -934,5 +934,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-06T04:39:02.367047Z",
+    "status": "success",
+    "drive_file_id": "1YzmP-Ugu7EBLKhMh0dvo8e8B1vioGGKx",
+    "filename": "3037987689047216014_28116722.mp4",
+    "youtube_video_id": "ROX8ffTes_Q",
+    "scheduled_publish_at": "2026-09-06T20:00:00Z",
+    "slot_key": "2026-09-06T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-06T04:39:04.392305Z",
+    "status": "success",
+    "drive_file_id": "1OwEhYQg9veVN6vJ686tA7vKAlPMj5RBY",
+    "filename": "3041656024909052794_28116722.mp4",
+    "youtube_video_id": "wq-br2DAfvc",
+    "scheduled_publish_at": "2026-09-07T08:00:00Z",
+    "slot_key": "2026-09-07T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
