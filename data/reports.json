@@ -1006,5 +1006,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-08T04:36:26.480219Z",
+    "status": "success",
+    "drive_file_id": "1tzbXJxVXsmqMoH7FKeiw-scqc0BglZ_S",
+    "filename": "3046234439595271948_28116722.mp4",
+    "youtube_video_id": "gMTsU_7Ba14",
+    "scheduled_publish_at": "2026-09-08T20:00:00Z",
+    "slot_key": "2026-09-08T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-08T04:36:28.510536Z",
+    "status": "success",
+    "drive_file_id": "1M3F1Fd6mhj-SoOEXnWTB8M1rxaocEKV8",
+    "filename": "304FA722DEC39DC2157F921BD6062CBB_video_dashinit.mp4",
+    "youtube_video_id": "ZO-Glk4V_js",
+    "scheduled_publish_at": "2026-09-09T08:00:00Z",
+    "slot_key": "2026-09-09T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
