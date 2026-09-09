@@ -1042,5 +1042,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-09T04:42:30.085261Z",
+    "status": "success",
+    "drive_file_id": "19llm2ld_bAIbEuyzObN8lSwBFK_zJjKA",
+    "filename": "3051971204226341432_28116722.mp4",
+    "youtube_video_id": "LY9eh6b-MGI",
+    "scheduled_publish_at": "2026-09-09T20:00:00Z",
+    "slot_key": "2026-09-09T20:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-09T04:42:32.283916Z",
+    "status": "success",
+    "drive_file_id": "1mzlFF5IvT5u89_ugbu7nrVRKFVuYSMjj",
+    "filename": "3054103757964043142_28116722.mp4",
+    "youtube_video_id": "BURI9H9cWFM",
+    "scheduled_publish_at": "2026-09-10T08:00:00Z",
+    "slot_key": "2026-09-10T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
