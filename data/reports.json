@@ -1150,5 +1150,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-12T04:34:48.211685Z",
+    "status": "success",
+    "drive_file_id": "1HpxDLs-EEXiO5hu5AP5-JuiPuq-W5saC",
+    "filename": "3076649384182637011_28116722.mp4",
+    "youtube_video_id": "OFvSyby7zBI",
+    "scheduled_publish_at": "2026-09-12T20:00:00Z",
+    "slot_key": "2026-09-12T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-12T04:34:50.984985Z",
+    "status": "success",
+    "drive_file_id": "1HLRPcqhkZf-YAdqhzWfqwf2RRyZUK8hh",
+    "filename": "3077770760624954976_28116722.mp4",
+    "youtube_video_id": "ETQorGLpqho",
+    "scheduled_publish_at": "2026-09-13T08:00:00Z",
+    "slot_key": "2026-09-13T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
