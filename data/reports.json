@@ -1294,5 +1294,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-16T04:49:36.974644Z",
+    "status": "success",
+    "drive_file_id": "1--lv9XcTQE5S2FPkSqWnU5cMTzvezG3A",
+    "filename": "3088171713626747010_28116722.mp4",
+    "youtube_video_id": "ylvVJBcCx3U",
+    "scheduled_publish_at": "2026-09-16T20:00:00Z",
+    "slot_key": "2026-09-16T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-16T04:49:39.993744Z",
+    "status": "success",
+    "drive_file_id": "10i7FVBTXBXC2AmXzmBELxZlC3-5bLkrq",
+    "filename": "3092618317612614703_28116722.mp4",
+    "youtube_video_id": "B87xLLCIMOQ",
+    "scheduled_publish_at": "2026-09-17T08:00:00Z",
+    "slot_key": "2026-09-17T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
