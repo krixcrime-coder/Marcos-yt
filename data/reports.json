@@ -1366,5 +1366,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-18T04:43:57.575379Z",
+    "status": "success",
+    "drive_file_id": "1iwyBSgfnVZJNVV4q3M7lBxFG-x4NQKUS",
+    "filename": "3098948476367785130_28116722.mp4",
+    "youtube_video_id": "ytAdMK5Byd4",
+    "scheduled_publish_at": "2026-09-18T20:00:00Z",
+    "slot_key": "2026-09-18T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-18T04:44:01.230972Z",
+    "status": "success",
+    "drive_file_id": "17xCeiEZZgE8VitJkJ1PUgti5haaOquuC",
+    "filename": "3104108959341543017_28116722.mp4",
+    "youtube_video_id": "Gc90DAaFkl0",
+    "scheduled_publish_at": "2026-09-19T08:00:00Z",
+    "slot_key": "2026-09-19T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
