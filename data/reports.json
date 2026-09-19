@@ -1402,5 +1402,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-19T04:37:54.108905Z",
+    "status": "success",
+    "drive_file_id": "1gDtYJZfOFavR9BXHXfk1uWm6mLq5eK-l",
+    "filename": "310510000_652588149726763_4221231249183371087_n.mp4",
+    "youtube_video_id": "R3_6XClcxlw",
+    "scheduled_publish_at": "2026-09-19T20:00:00Z",
+    "slot_key": "2026-09-19T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-19T04:37:56.527855Z",
+    "status": "success",
+    "drive_file_id": "1nsJ2J-NM4pKCRSco_E45CNpeZc8faxIK",
+    "filename": "3109726430492323311_28116722.mp4",
+    "youtube_video_id": "v1b16ZzTZ-o",
+    "scheduled_publish_at": "2026-09-20T08:00:00Z",
+    "slot_key": "2026-09-20T08:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
