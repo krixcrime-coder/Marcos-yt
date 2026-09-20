@@ -1438,5 +1438,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-20T04:54:01.907194Z",
+    "status": "success",
+    "drive_file_id": "1BXawXTgbSzR_zh07uBdUj6X_8VfRr9d3",
+    "filename": "3113474771243900882_28116722.mp4",
+    "youtube_video_id": "e10QOMBKBPY",
+    "scheduled_publish_at": "2026-09-20T20:00:00Z",
+    "slot_key": "2026-09-20T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-20T04:54:04.582473Z",
+    "status": "success",
+    "drive_file_id": "1fUFNLpCkuI-A_OKEq3wfZpIp5OzfFnLF",
+    "filename": "3114097330041793713_28116722.mp4",
+    "youtube_video_id": "QvW2BBIJfrA",
+    "scheduled_publish_at": "2026-09-21T08:00:00Z",
+    "slot_key": "2026-09-21T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
