@@ -1510,5 +1510,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-22T04:57:00.801144Z",
+    "status": "success",
+    "drive_file_id": "1WOJjBIf1dBnbywwzHmTcSvBgcxlDNqHb",
+    "filename": "3139552305467626146_28116722.mp4",
+    "youtube_video_id": "idtnE4tXfI0",
+    "scheduled_publish_at": "2026-09-22T20:00:00Z",
+    "slot_key": "2026-09-22T20:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-22T04:57:03.998306Z",
+    "status": "success",
+    "drive_file_id": "1XnsGGQ2cbTtGo5dL_0oGx0cAT47GCSX-",
+    "filename": "3148080322669902088_28116722.mp4",
+    "youtube_video_id": "A8V4s9zBzIA",
+    "scheduled_publish_at": "2026-09-23T08:00:00Z",
+    "slot_key": "2026-09-23T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
