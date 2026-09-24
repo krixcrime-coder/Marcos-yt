@@ -1582,5 +1582,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-24T04:51:00.518843Z",
+    "status": "success",
+    "drive_file_id": "1pxohbbHgwsJPO0D9p4bUfOAnID8DzsLo",
+    "filename": "317429057_1318868442340008_5081617497744765667_n.mp4",
+    "youtube_video_id": "1-C-QLnl8Eg",
+    "scheduled_publish_at": "2026-09-24T20:00:00Z",
+    "slot_key": "2026-09-24T20:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-24T04:51:02.595180Z",
+    "status": "success",
+    "drive_file_id": "1rGL1BpGLbjvaNkrBUTF6LHTHouUELuYn",
+    "filename": "318378590_1961239334236424_3482735027373150307_n.mp4",
+    "youtube_video_id": "LKuBG3-BEkU",
+    "scheduled_publish_at": "2026-09-25T08:00:00Z",
+    "slot_key": "2026-09-25T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
