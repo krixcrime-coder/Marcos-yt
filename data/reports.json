@@ -1618,5 +1618,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-09-25T04:57:49.040486Z",
+    "status": "success",
+    "drive_file_id": "1UG2bGUIEcUANAwmFp45EiabrHA8eLUVE",
+    "filename": "318715525_190582460651106_4403903072141776429_n.mp4",
+    "youtube_video_id": "jvlRcuHI8aI",
+    "scheduled_publish_at": "2026-09-25T20:00:00Z",
+    "slot_key": "2026-09-25T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-09-25T04:57:52.478870Z",
+    "status": "success",
+    "drive_file_id": "1lAejKqKXFVLljGJ8ozGsZ7t0bx-gXXQ0",
+    "filename": "320098422_745016854074311_7160091900153552612_n.mp4",
+    "youtube_video_id": "qqLU6NKUgDc",
+    "scheduled_publish_at": "2026-09-26T08:00:00Z",
+    "slot_key": "2026-09-26T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
