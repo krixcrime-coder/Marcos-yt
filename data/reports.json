@@ -1870,5 +1870,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-02T05:37:30.721623Z",
+    "status": "success",
+    "drive_file_id": "16I2s-kHRwohaIvZApvkuxl-rh_g1yzqk",
+    "filename": "46040883_999952041379966_1641170314889517696_n.mp4",
+    "youtube_video_id": "-Jzzsk49_90",
+    "scheduled_publish_at": "2026-10-02T20:00:00Z",
+    "slot_key": "2026-10-02T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-02T05:37:32.860532Z",
+    "status": "success",
+    "drive_file_id": "1oV1PvwPQiCtOARtWR-Sy_NBDAQQWGs7i",
+    "filename": "4743914B69844FF5CF32CEBF00F33CAB_video_dashinit.mp4",
+    "youtube_video_id": "6jIYrNcKW38",
+    "scheduled_publish_at": "2026-10-03T08:00:00Z",
+    "slot_key": "2026-10-03T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
