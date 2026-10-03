@@ -1906,5 +1906,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-03T05:18:52.390265Z",
+    "status": "success",
+    "drive_file_id": "1P1dgFvd9kPD98WNfXuc-9jv71hbJrGd0",
+    "filename": "474C66240C5A882056CEB16176E85ABD_video_dashinit.mp4",
+    "youtube_video_id": "Otq2dVBXrRg",
+    "scheduled_publish_at": "2026-10-03T20:00:00Z",
+    "slot_key": "2026-10-03T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-03T05:18:54.475291Z",
+    "status": "success",
+    "drive_file_id": "1Jr__au9alreDExODtZ2Bhb-Z_t-8Y-o7",
+    "filename": "48241803_652352336744730_6828518764683132067_n.mp4",
+    "youtube_video_id": "zaT-njq4nkw",
+    "scheduled_publish_at": "2026-10-04T08:00:00Z",
+    "slot_key": "2026-10-04T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
