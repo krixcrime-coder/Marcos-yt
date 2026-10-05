@@ -1978,5 +1978,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-05T05:40:14.249176Z",
+    "status": "success",
+    "drive_file_id": "1X4G5KxIrYqDzIzj8QFN8v0r1UGL8kzkK",
+    "filename": "48827698_3288894271328131_1989541063235275071_n.mp4",
+    "youtube_video_id": "cHi4ZYAgwcs",
+    "scheduled_publish_at": "2026-10-05T20:00:00Z",
+    "slot_key": "2026-10-05T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-05T05:40:17.132389Z",
+    "status": "success",
+    "drive_file_id": "1gM78NvJoGVr-brNxlEyl9XJRB_M3WTZ1",
+    "filename": "48908808_184761417329980_4414335413621226_n.mp4",
+    "youtube_video_id": "1-z8XJwKXE0",
+    "scheduled_publish_at": "2026-10-06T08:00:00Z",
+    "slot_key": "2026-10-06T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
