@@ -2014,5 +2014,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-06T06:21:07.042246Z",
+    "status": "success",
+    "drive_file_id": "1iYvbQcJ1aMmwuhXLkXdiBMRbZ4DBLDF2",
+    "filename": "48914261_256945013606228_409362611702935997_n.mp4",
+    "youtube_video_id": "o2eOLihvh7A",
+    "scheduled_publish_at": "2026-10-06T20:00:00Z",
+    "slot_key": "2026-10-06T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-06T06:21:10.807206Z",
+    "status": "success",
+    "drive_file_id": "1awwFrsi62CjAZp7Jf_za946Gux3NtInN",
+    "filename": "49527703_854967935975133_6542775270435783802_n.mp4",
+    "youtube_video_id": "LHVWnVLHgfI",
+    "scheduled_publish_at": "2026-10-07T08:00:00Z",
+    "slot_key": "2026-10-07T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
