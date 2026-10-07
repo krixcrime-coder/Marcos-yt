@@ -2050,5 +2050,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-07T05:59:49.761281Z",
+    "status": "success",
+    "drive_file_id": "10cXa1tCuPb0dm7SYTXb6UQ45c_1k_Tsu",
+    "filename": "49631486_1395956497924983_5436126078166826373_n.mp4",
+    "youtube_video_id": "JBRZz-HyllM",
+    "scheduled_publish_at": "2026-10-07T20:00:00Z",
+    "slot_key": "2026-10-07T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-07T05:59:52.261145Z",
+    "status": "success",
+    "drive_file_id": "1EfhFAnAzPaaClNCSizfdTu6Xu3PZdC8i",
+    "filename": "49686570_137860979193650_475189753914809601_n.mp4",
+    "youtube_video_id": "__pvnxase4g",
+    "scheduled_publish_at": "2026-10-08T08:00:00Z",
+    "slot_key": "2026-10-08T08:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
