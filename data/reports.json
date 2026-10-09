@@ -2122,5 +2122,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-09T06:08:52.140663Z",
+    "status": "success",
+    "drive_file_id": "1E6wbNjzveaccBqqSRXVyF1HuVV72-U7R",
+    "filename": "53240925_918627172733214_1509004271472543396_n.mp4",
+    "youtube_video_id": "SaB5-KjNg8Y",
+    "scheduled_publish_at": "2026-10-09T20:00:00Z",
+    "slot_key": "2026-10-09T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-09T06:08:54.558933Z",
+    "status": "success",
+    "drive_file_id": "1LIAEdBvVQ1BkBr9yHlwhZspgZ72IIBoG",
+    "filename": "53514053_1303878800485430_6990622425225766556_n.mp4",
+    "youtube_video_id": "0z0bCITZJXE",
+    "scheduled_publish_at": "2026-10-10T08:00:00Z",
+    "slot_key": "2026-10-10T08:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
