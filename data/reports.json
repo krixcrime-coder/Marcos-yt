@@ -2158,5 +2158,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-10T05:52:59.160088Z",
+    "status": "success",
+    "drive_file_id": "18TaIJUY9qnC9NrIygFYFCSXBD59M-7V8",
+    "filename": "5643692E6B694447572DB31583C5F3BE_video_dashinit.mp4",
+    "youtube_video_id": "MW7Jq1plsmk",
+    "scheduled_publish_at": "2026-10-10T20:00:00Z",
+    "slot_key": "2026-10-10T20:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-10T05:53:00.920431Z",
+    "status": "success",
+    "drive_file_id": "1i_ozL4F4OiAW0P7RWgWR4xYvSqHITjde",
+    "filename": "5B44C8D9230EAC6B27D5D9E0A0FF239F_video_dashinit.mp4",
+    "youtube_video_id": "jGOzFmkuTAU",
+    "scheduled_publish_at": "2026-10-11T08:00:00Z",
+    "slot_key": "2026-10-11T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
