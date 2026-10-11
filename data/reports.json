@@ -2194,5 +2194,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-11T05:46:51.477685Z",
+    "status": "success",
+    "drive_file_id": "1oTNsyLKnDduiB0BpXc8WYqsBuc8szA_t",
+    "filename": "634AF6C19DD0D1A5EEB59403E7B8239F_video_dashinit.mp4",
+    "youtube_video_id": "a-mihJiQZBQ",
+    "scheduled_publish_at": "2026-10-11T20:00:00Z",
+    "slot_key": "2026-10-11T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-11T05:46:53.192405Z",
+    "status": "success",
+    "drive_file_id": "1N3_CONbFETSMN_pLYIswqfLweQV-jGeK",
+    "filename": "664AB0E9C52B1DD3BABBC8905BF90DA7_video_dashinit.mp4",
+    "youtube_video_id": "ZMaLZzWO1Lg",
+    "scheduled_publish_at": "2026-10-12T08:00:00Z",
+    "slot_key": "2026-10-12T08:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
