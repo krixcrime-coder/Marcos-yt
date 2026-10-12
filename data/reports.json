@@ -2230,5 +2230,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-12T05:58:23.174544Z",
+    "status": "success",
+    "drive_file_id": "188PImzT439E8jEKzmYARdsxrfgGLySjT",
+    "filename": "6741ED3D91D1909631E8AD51261FF381_video_dashinit.mp4",
+    "youtube_video_id": "4hK5zW9R37U",
+    "scheduled_publish_at": "2026-10-12T20:00:00Z",
+    "slot_key": "2026-10-12T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-12T05:58:25.512940Z",
+    "status": "success",
+    "drive_file_id": "1QInSScVhCk_Ik5dGNOOz4BFFxg08vsEw",
+    "filename": "6940CA1CC45E178C253A76F27FEFDBBE_video_dashinit.mp4",
+    "youtube_video_id": "n8IrnW-I7Fc",
+    "scheduled_publish_at": "2026-10-13T08:00:00Z",
+    "slot_key": "2026-10-13T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
