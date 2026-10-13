@@ -2266,5 +2266,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-13T06:47:23.228852Z",
+    "status": "success",
+    "drive_file_id": "1DhdgkkEqQAEsAJ1j1hw-HYQkbgLY01cg",
+    "filename": "71402C1EA39D5FA280D04F96721C9F9F_video_dashinit.mp4",
+    "youtube_video_id": "hK4C0v29Oe4",
+    "scheduled_publish_at": "2026-10-13T20:00:00Z",
+    "slot_key": "2026-10-13T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-13T06:47:26.105050Z",
+    "status": "success",
+    "drive_file_id": "17yunuIJE5E5Kt4yhDbIt4TPOcEyi4d5C",
+    "filename": "7245E38A7FC7C6B5CCBCE906EC99048F_video_dashinit.mp4",
+    "youtube_video_id": "KucdlhDsD7Q",
+    "scheduled_publish_at": "2026-10-14T08:00:00Z",
+    "slot_key": "2026-10-14T08:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
