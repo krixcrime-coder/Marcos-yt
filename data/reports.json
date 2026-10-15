@@ -2338,5 +2338,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-15T04:38:56.567648Z",
+    "status": "success",
+    "drive_file_id": "1A7rORhX5TeTPa1GIXvx72h1zVGpXlcdO",
+    "filename": "734D4B39788228EBCD2064882CDC908E_video_dashinit.mp4",
+    "youtube_video_id": "MoQdMIdRIEY",
+    "scheduled_publish_at": "2026-10-15T20:00:00Z",
+    "slot_key": "2026-10-15T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-15T04:38:58.708489Z",
+    "status": "success",
+    "drive_file_id": "1YwbfoGzaOjYYYTBY762tVXre9poOHwg2",
+    "filename": "754B1E4104E7AF57800B62D881ECF798_video_dashinit.mp4",
+    "youtube_video_id": "izvt4aL7r08",
+    "scheduled_publish_at": "2026-10-16T08:00:00Z",
+    "slot_key": "2026-10-16T08:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
