@@ -2518,5 +2518,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-20T04:51:11.618411Z",
+    "status": "success",
+    "drive_file_id": "1u7dWZyZHx34A2jVgEKYnu_OvX5Yy1x4m",
+    "filename": "884EB853A453EB4B2CC2D373AD1D0CB6_video_dashinit.mp4",
+    "youtube_video_id": "uxDRBHL7XjU",
+    "scheduled_publish_at": "2026-10-20T20:00:00Z",
+    "slot_key": "2026-10-20T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-20T04:51:13.913739Z",
+    "status": "success",
+    "drive_file_id": "1e2TazuScZ1EPjijiyxw1QD2vyXxWcawA",
+    "filename": "89441AE2EBED3A1FC4AB9C34C4C47894_video_dashinit.mp4",
+    "youtube_video_id": "1hScuXsUgsk",
+    "scheduled_publish_at": "2026-10-21T08:00:00Z",
+    "slot_key": "2026-10-21T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
