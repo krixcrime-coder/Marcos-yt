@@ -2590,5 +2590,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-22T04:45:30.807465Z",
+    "status": "success",
+    "drive_file_id": "1lU0iuJ_A0ulqTM5q6POYJlTkTA3e7rr2",
+    "filename": "8E411BEA4E2BDB23DA0871BA568B329F_video_dashinit.mp4",
+    "youtube_video_id": "QEdfLFUaQPA",
+    "scheduled_publish_at": "2026-10-22T20:00:00Z",
+    "slot_key": "2026-10-22T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-22T04:45:32.785889Z",
+    "status": "success",
+    "drive_file_id": "18HmdmtQOhBAXclaCqOv7XS6Xdrqu4AjG",
+    "filename": "92417CF019715B77A44A85D8F1353C99_video_dashinit.mp4",
+    "youtube_video_id": "agsYKkF4MXg",
+    "scheduled_publish_at": "2026-10-23T08:00:00Z",
+    "slot_key": "2026-10-23T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
