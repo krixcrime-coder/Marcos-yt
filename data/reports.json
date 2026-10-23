@@ -2626,5 +2626,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-23T04:49:21.819259Z",
+    "status": "success",
+    "drive_file_id": "1ob2wwa-1hTHkrsB3BNQidMSZNzpvpAay",
+    "filename": "B14160002D38E417B00022E4E033B8AA_video_dashinit.mp4",
+    "youtube_video_id": "NMLCzWX07h4",
+    "scheduled_publish_at": "2026-10-23T20:00:00Z",
+    "slot_key": "2026-10-23T20:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-23T04:49:24.638297Z",
+    "status": "success",
+    "drive_file_id": "1-KEqOq8iVu73YVxuyBx57jNOTW0vqLrn",
+    "filename": "B44CEB0F6FBA1C0660BA9819102D40B6_video_dashinit.mp4",
+    "youtube_video_id": "CDAbpvjQwNc",
+    "scheduled_publish_at": "2026-10-24T08:00:00Z",
+    "slot_key": "2026-10-24T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
