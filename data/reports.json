@@ -2662,5 +2662,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-24T04:36:49.156962Z",
+    "status": "success",
+    "drive_file_id": "1fujML0VIgjr0YZiV5K8xbhgw2VSR9pvN",
+    "filename": "B74496C345387FAEFA720B22241FF48C_video_dashinit.mp4",
+    "youtube_video_id": "TMxoKlB5-0Q",
+    "scheduled_publish_at": "2026-10-24T20:00:00Z",
+    "slot_key": "2026-10-24T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-24T04:36:51.136460Z",
+    "status": "success",
+    "drive_file_id": "1ypH47AmostQMWjk-XAvVJUZOhtVLU5MT",
+    "filename": "B8431C85AF39D38042EC8F82BC35AAAF_video_dashinit.mp4",
+    "youtube_video_id": "t1wFewNrHAA",
+    "scheduled_publish_at": "2026-10-25T08:00:00Z",
+    "slot_key": "2026-10-25T08:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
