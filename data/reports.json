@@ -2734,5 +2734,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-26T04:47:17.762483Z",
+    "status": "success",
+    "drive_file_id": "1nbNeK-CWnU5ZdwSjpiYck3_RqNPNG_y3",
+    "filename": "C14B6BC5A39F818A9AD023F0FC9082AF_video_dashinit.mp4",
+    "youtube_video_id": "g_8n0MshYGQ",
+    "scheduled_publish_at": "2026-10-26T20:00:00Z",
+    "slot_key": "2026-10-26T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-26T04:47:19.711448Z",
+    "status": "success",
+    "drive_file_id": "1ZS0-k4Rp3AIwBy0N6ApEQoGDbNu4Pw0B",
+    "filename": "C24CD6131EE59CA262DD08C5AACADBAE_video_dashinit.mp4",
+    "youtube_video_id": "L3TbzIYZwio",
+    "scheduled_publish_at": "2026-10-27T08:00:00Z",
+    "slot_key": "2026-10-27T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
