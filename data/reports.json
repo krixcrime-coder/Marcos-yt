@@ -2770,5 +2770,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-27T05:04:57.273761Z",
+    "status": "success",
+    "drive_file_id": "1zTaxM0-I_F8S4JmLZRUOQ1bbXpY0d_G-",
+    "filename": "C24E984BD94BA7374D207834AF75D1BF_video_dashinit.mp4",
+    "youtube_video_id": "0_GJRxoRuvM",
+    "scheduled_publish_at": "2026-10-27T20:00:00Z",
+    "slot_key": "2026-10-27T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-27T05:05:00.287995Z",
+    "status": "success",
+    "drive_file_id": "1Fx1rxW7U1TThDdNEwHwpaaLbFMLD41R1",
+    "filename": "CD44796E354A23D94B93ACE912889FB5_video_dashinit.mp4",
+    "youtube_video_id": "gMouYIj7A08",
+    "scheduled_publish_at": "2026-10-28T08:00:00Z",
+    "slot_key": "2026-10-28T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
