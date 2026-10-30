@@ -2878,5 +2878,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-30T05:49:30.726065Z",
+    "status": "success",
+    "drive_file_id": "1Mz1xhxsBw1ArxU-ob1z6TZartDw4e3JS",
+    "filename": "DA4DDCDD0B9F7C8720FC1CBAD43284A5_video_dashinit.mp4",
+    "youtube_video_id": "WX6Pfl53eVY",
+    "scheduled_publish_at": "2026-10-30T20:00:00Z",
+    "slot_key": "2026-10-30T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-30T05:49:34.892345Z",
+    "status": "success",
+    "drive_file_id": "1mLpPPbzSYTckiG9FXteiM6r2DpqH8GxG",
+    "filename": "DB4EECBF725F45D6071741304139ECA3_video_dashinit.mp4",
+    "youtube_video_id": "QN3TOOOErCs",
+    "scheduled_publish_at": "2026-10-31T08:00:00Z",
+    "slot_key": "2026-10-31T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
