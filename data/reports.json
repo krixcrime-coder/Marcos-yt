@@ -2914,5 +2914,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-10-31T05:41:29.782026Z",
+    "status": "success",
+    "drive_file_id": "1etq5iheITGiAXAGPV7Z5WIihapm-MQMu",
+    "filename": "E24080D23DBECEB758E31F0164ED15AB_video_dashinit.mp4",
+    "youtube_video_id": "yo1R875FBTk",
+    "scheduled_publish_at": "2026-10-31T20:00:00Z",
+    "slot_key": "2026-10-31T20:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-10-31T05:41:32.805620Z",
+    "status": "success",
+    "drive_file_id": "183DZGNGCRp-erAYmxxEEgDxrYjkYuPVk",
+    "filename": "E4485406439B45A781E1F45BAB1F1885_video_dashinit.mp4",
+    "youtube_video_id": "5lvsasqP3Bc",
+    "scheduled_publish_at": "2026-11-01T08:00:00Z",
+    "slot_key": "2026-11-01T08:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
