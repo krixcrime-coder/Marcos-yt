@@ -3094,5 +3094,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-11-05T06:46:01.406195Z",
+    "status": "success",
+    "drive_file_id": "1nnKBEILG73idflS3-lnQqWlMw_1RAWj5",
+    "filename": "ERideBuy.Com (1018).mp4",
+    "youtube_video_id": "NfWJAdf6EC0",
+    "scheduled_publish_at": "2026-11-05T20:00:00Z",
+    "slot_key": "2026-11-05T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-11-05T06:46:03.980843Z",
+    "status": "success",
+    "drive_file_id": "1JCZE9YsraLr8URTbC4vl_ep7EzPMhFtc",
+    "filename": "ERideBuy.Com (1019).mp4",
+    "youtube_video_id": "nwH7sC5zT34",
+    "scheduled_publish_at": "2026-11-06T08:00:00Z",
+    "slot_key": "2026-11-06T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
