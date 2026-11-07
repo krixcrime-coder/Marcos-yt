@@ -3166,5 +3166,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-11-07T05:58:07.582474Z",
+    "status": "success",
+    "drive_file_id": "1OlTcAuaXj-6NZnZPhaxJqtao-WDZioh9",
+    "filename": "ERideBuy.Com (1024).mp4",
+    "youtube_video_id": "pM-vjCbHYF8",
+    "scheduled_publish_at": "2026-11-07T20:00:00Z",
+    "slot_key": "2026-11-07T20:00+00:00",
+    "metadata": {
+      "title": "This happened so fast",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-11-07T05:58:10.253367Z",
+    "status": "success",
+    "drive_file_id": "1xGUlOpO4Ox6yFxS5uXLq39cavsAs9sgY",
+    "filename": "ERideBuy.Com (1026).mp4",
+    "youtube_video_id": "PRSTK94VU08",
+    "scheduled_publish_at": "2026-11-08T08:00:00Z",
+    "slot_key": "2026-11-08T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
