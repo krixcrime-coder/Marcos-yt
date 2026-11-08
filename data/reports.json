@@ -3202,5 +3202,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-11-08T06:00:10.607156Z",
+    "status": "success",
+    "drive_file_id": "1GZvgWvkYXwp3BM1Zk9atBzt8htfn-ejy",
+    "filename": "ERideBuy.Com (1028).mp4",
+    "youtube_video_id": "dnL2zIF3Qp4",
+    "scheduled_publish_at": "2026-11-08T20:00:00Z",
+    "slot_key": "2026-11-08T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-11-08T06:00:12.546471Z",
+    "status": "success",
+    "drive_file_id": "1Pw0ug3pojMk0qpcqYx-_k_0DooMXi_5m",
+    "filename": "ERideBuy.Com (1032).mp4",
+    "youtube_video_id": "8FgiafdANPM",
+    "scheduled_publish_at": "2026-11-09T08:00:00Z",
+    "slot_key": "2026-11-09T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
