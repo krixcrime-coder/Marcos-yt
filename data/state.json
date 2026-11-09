@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "next_index": 180,
+  "next_index": 182,
   "uploaded_file_ids": [
     "1p6I1dbSUerSdSPueMYN3Lp3rHp7vZnF4",
     "16cXL2ruWeWhQ8iG7sODLiVWjaIr6NXVf",
@@ -181,7 +181,9 @@
     "1OlTcAuaXj-6NZnZPhaxJqtao-WDZioh9",
     "1xGUlOpO4Ox6yFxS5uXLq39cavsAs9sgY",
     "1GZvgWvkYXwp3BM1Zk9atBzt8htfn-ejy",
-    "1Pw0ug3pojMk0qpcqYx-_k_0DooMXi_5m"
+    "1Pw0ug3pojMk0qpcqYx-_k_0DooMXi_5m",
+    "1maJaqRNF9Druw0GQQfJLCaN8myvsN5pP",
+    "1ucegzphoWuWDm_Ugi0x5QW-RGjVD0xMB"
   ],
   "scheduled_slots": {
     "2026-08-09T08:00+00:00": "1p6I1dbSUerSdSPueMYN3Lp3rHp7vZnF4",
@@ -363,7 +365,9 @@
     "2026-11-07T20:00+00:00": "1OlTcAuaXj-6NZnZPhaxJqtao-WDZioh9",
     "2026-11-08T08:00+00:00": "1xGUlOpO4Ox6yFxS5uXLq39cavsAs9sgY",
     "2026-11-08T20:00+00:00": "1GZvgWvkYXwp3BM1Zk9atBzt8htfn-ejy",
-    "2026-11-09T08:00+00:00": "1Pw0ug3pojMk0qpcqYx-_k_0DooMXi_5m"
+    "2026-11-09T08:00+00:00": "1Pw0ug3pojMk0qpcqYx-_k_0DooMXi_5m",
+    "2026-11-09T20:00+00:00": "1maJaqRNF9Druw0GQQfJLCaN8myvsN5pP",
+    "2026-11-10T08:00+00:00": "1ucegzphoWuWDm_Ugi0x5QW-RGjVD0xMB"
   },
-  "last_run_at": "2026-11-08T06:00:12.550268Z"
+  "last_run_at": "2026-11-09T06:28:09.943896Z"
 }
