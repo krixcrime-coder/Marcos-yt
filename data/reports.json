@@ -3274,5 +3274,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-11-10T07:17:49.638865Z",
+    "status": "success",
+    "drive_file_id": "17eA_oy47hYhXhCE3vz3A3DsktjhUYZFM",
+    "filename": "ERideBuy.Com (1038).mp4",
+    "youtube_video_id": "3UK56ePycnM",
+    "scheduled_publish_at": "2026-11-10T20:00:00Z",
+    "slot_key": "2026-11-10T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-11-10T07:17:53.227763Z",
+    "status": "success",
+    "drive_file_id": "1w5WboB7KXrCLzucDk8BeSd1tA_qUdYJ5",
+    "filename": "ERideBuy.Com (1039).mp4",
+    "youtube_video_id": "aKs1zFlEhPw",
+    "scheduled_publish_at": "2026-11-11T08:00:00Z",
+    "slot_key": "2026-11-11T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
