@@ -3310,5 +3310,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-11-11T06:20:26.037252Z",
+    "status": "success",
+    "drive_file_id": "1LqqGh9vLYSY93rIoefCTPqhzZ3aJT66h",
+    "filename": "ERideBuy.Com (1042).mp4",
+    "youtube_video_id": "D5WHkysrdjI",
+    "scheduled_publish_at": "2026-11-11T20:00:00Z",
+    "slot_key": "2026-11-11T20:00+00:00",
+    "metadata": {
+      "title": "The perfect short clip",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-11-11T06:20:28.128009Z",
+    "status": "success",
+    "drive_file_id": "1U-34veUopbxWo9y6jAQ5fn8trb6UBUcc",
+    "filename": "ERideBuy.Com (1043).mp4",
+    "youtube_video_id": "YySxPRjAjgk",
+    "scheduled_publish_at": "2026-11-12T08:00:00Z",
+    "slot_key": "2026-11-12T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
