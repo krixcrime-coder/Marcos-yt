@@ -3382,5 +3382,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-11-13T06:45:01.200506Z",
+    "status": "success",
+    "drive_file_id": "1VXmBC9poie5IGKs0f7T67LOIagMAejur",
+    "filename": "ERideBuy.Com (1054).mp4",
+    "youtube_video_id": "fMhpAEGeYnU",
+    "scheduled_publish_at": "2026-11-13T20:00:00Z",
+    "slot_key": "2026-11-13T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-11-13T06:45:03.820706Z",
+    "status": "success",
+    "drive_file_id": "1WE83obg7rLBDHvKFm4jLe3HvzpA40LSP",
+    "filename": "ERideBuy.Com (1055).mp4",
+    "youtube_video_id": "nTN6f8xhO30",
+    "scheduled_publish_at": "2026-11-14T08:00:00Z",
+    "slot_key": "2026-11-14T08:00+00:00",
+    "metadata": {
+      "title": "Wait for the ending",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
