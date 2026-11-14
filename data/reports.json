@@ -3418,5 +3418,41 @@
         "fyp"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-11-14T06:22:58.998476Z",
+    "status": "success",
+    "drive_file_id": "1DeEq54GrcpcSvfyziybvi58BF1r0atF2",
+    "filename": "ERideBuy.Com (1058).mp4",
+    "youtube_video_id": "eTfil8JiGkg",
+    "scheduled_publish_at": "2026-11-14T20:00:00Z",
+    "slot_key": "2026-11-14T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-11-14T06:23:02.196676Z",
+    "status": "success",
+    "drive_file_id": "1lpG7R0-SMQvBcKrkc_LDMG8xE6brM4mJ",
+    "filename": "ERideBuy.Com (1059).mp4",
+    "youtube_video_id": "ZSRvnSTq_-U",
+    "scheduled_publish_at": "2026-11-15T08:00:00Z",
+    "slot_key": "2026-11-15T08:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "viral",
+        "trending"
+      ]
+    }
   }
 ]
