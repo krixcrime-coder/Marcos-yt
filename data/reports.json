@@ -3526,5 +3526,41 @@
         "trending"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-11-17T07:54:41.119628Z",
+    "status": "success",
+    "drive_file_id": "1KoVrd9mN2se3qZoD1LaiLkD9AO4l0WvY",
+    "filename": "ERideBuy.Com (1074).mp4",
+    "youtube_video_id": "D1--fWBvuK4",
+    "scheduled_publish_at": "2026-11-17T20:00:00Z",
+    "slot_key": "2026-11-17T20:00+00:00",
+    "metadata": {
+      "title": "Amazing moment you have to see",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-11-17T07:54:44.076993Z",
+    "status": "success",
+    "drive_file_id": "1VTXYBI8TFvqBflfzKiHOywc3_1l_swfB",
+    "filename": "ERideBuy.Com (1075).mp4",
+    "youtube_video_id": "eKujwI8OCn4",
+    "scheduled_publish_at": "2026-11-18T08:00:00Z",
+    "slot_key": "2026-11-18T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "shorts",
+        "daily shorts",
+        "fyp"
+      ]
+    }
   }
 ]
