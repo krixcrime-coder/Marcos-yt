@@ -3634,5 +3634,41 @@
         "must watch"
       ]
     }
+  },
+  {
+    "uploaded_at": "2026-11-20T07:15:29.813088Z",
+    "status": "success",
+    "drive_file_id": "108cGZh7718XdMAd4P-Tt0QY4Deu0N7mk",
+    "filename": "ERideBuy.Com (1081).mp4",
+    "youtube_video_id": "L6rmagu5cTA",
+    "scheduled_publish_at": "2026-11-20T20:00:00Z",
+    "slot_key": "2026-11-20T20:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Watch, share, and follow for the next clip.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
+  },
+  {
+    "uploaded_at": "2026-11-20T07:15:31.623088Z",
+    "status": "success",
+    "drive_file_id": "1erIqdtnZQJDpHq39mCQAQGAJRz7hDEOk",
+    "filename": "ERideBuy.Com (1084).mp4",
+    "youtube_video_id": "pZM1wWaZmRc",
+    "scheduled_publish_at": "2026-11-21T08:00:00Z",
+    "slot_key": "2026-11-21T08:00+00:00",
+    "metadata": {
+      "title": "You will not believe what happens next",
+      "description": "Shorts selected and scheduled automatically.",
+      "tags": [
+        "youtube shorts",
+        "short video",
+        "must watch"
+      ]
+    }
   }
 ]
